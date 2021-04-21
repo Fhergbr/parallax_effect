@@ -1,0 +1,26 @@
+.header-site{
+	background-image: url('./paisagem-2.jpg');
+	background-position:center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color:#ffffff;
+	padding: 300px 0;
+}
+.content-site{
+	padding-top: 200px 0;
+}
+.img-site{
+	background-image: url('paisagem-01.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color:#fff;
+	padding: 200px 0;
+}
+.footer-site{
+	background-color: #333;
+	color:#fff;
+	padding: 50px 0;
+}
